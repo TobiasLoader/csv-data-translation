@@ -1,4 +1,4 @@
-"nation","Index name","Exponential encoding","date"
+"nation","Index name","Exponential encoding","date","value"
 "Afghanistan","Exports to China","120055809","2005-12-31","151"
 "Afghanistan","Exports to China","120055809","2006-12-31","18.5744"
 "Afghanistan","Exports to China","120055809","2007-12-31","237.6291"
